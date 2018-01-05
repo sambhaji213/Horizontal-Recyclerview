@@ -1,8 +1,6 @@
 # Horizontal-Recyclerview
-Learn how to create a custom horizontal recyclerview with images and text in Android studio.
 
-<br></br>
-<a href="url"><img src="https://github.com/sambhaji213/Horizontal-Recyclerview/blob/master/screenshot/device.png" align="left" height="480" width="250"></a>
+Learn how to create a custom horizontal recyclerview with images and text in Android studio.
 
 I will show how to create a horizontal list view of images bind with text which is scrollable along the x-axis in Android Studio as shown below. Also, display a toast message on item click.  
 
@@ -38,3 +36,6 @@ Contain the vertical adapter class and the list of images and text added to the 
 
         return imageModelArrayList;
     }```
+    
+
+<a href="url"><img src="https://github.com/sambhaji213/Enable-GPS-Programmatically/blob/master/screenshot/gps.png" align="left" height="480" width="250"></a>
