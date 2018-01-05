@@ -35,7 +35,7 @@ Contain the vertical adapter class and the list of images and text added to the 
         imageModelArrayList.add(imageModel0);
 
         return imageModelArrayList;
-    }```
+    }
     
 ``````
-<a href="url"><img src="https://github.com/sambhaji213/Enable-GPS-Programmatically/blob/master/screenshot/gps.png" align="left" height="480" width="250"></a>
+<a href="url"><img src="https://github.com/sambhaji213/Horizontal-Recyclerview/blob/master/screenshot/device.png" align="left" height="480" width="250"></a>
